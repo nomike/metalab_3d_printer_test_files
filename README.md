@@ -18,7 +18,7 @@ A 20x20mm rectangle with a single layer height. Useful for a very quick check of
 
 ## cylinder_hollow_100x8
 
-A 100mm heigth cylinder with a wall thickness of 8mm. This is useful to detect y- or x-crashes.
+A 100mm height cylinder with a wall thickness of 8mm. This is useful to detect y- or x-crashes.
 
 ## stringing_test_cylinders
 
